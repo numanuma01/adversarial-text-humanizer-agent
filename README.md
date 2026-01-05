@@ -1,5 +1,5 @@
 # Adversarial Agentic Workflow
-![Demo video](https://github.com/user-attachments/assets/1637e330-577c-45e6-aa90-94f8e8576514)
+![Demo video](https://github.com/user-attachments/assets/edc2092c-cc11-4ff1-8822-5a570118a5c4)
 
 This is an autonomous agentic pipeline designed to bypass AI detection algorithms. It utilizes a **Directed Cyclic Graph (DCG)** where a Generator agent and a Forensic Judge agent lock into an adversarial feedback loop, iteratively refining text until it meets strict standards.
 
