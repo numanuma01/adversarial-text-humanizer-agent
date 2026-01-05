@@ -1,11 +1,7 @@
 # Adversarial Agentic Workflow
-[screen-capture 1.11.55 PM.webm](https://github.com/user-attachments/assets/1637e330-577c-45e6-aa90-94f8e8576514)
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
-![LangGraph](https://img.shields.io/badge/LangGraph-Stateful_Agents-orange?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-red?style=for-the-badge)
-![Llama 3](https://img.shields.io/badge/Model-Llama_3.3_70B-green?style=for-the-badge)
+![Demo video](https://github.com/user-attachments/assets/1637e330-577c-45e6-aa90-94f8e8576514)
 
-This is an autonomous agentic pipeline designed to bypass AI detection algorithms through adversarial reinforcement. It utilizes a **Directed Cyclic Graph (DCG)** where a Generator agent and a Forensic Judge agent lock into a feedback loop, iteratively refining text until it meets strict standards.
+This is an autonomous agentic pipeline designed to bypass AI detection algorithms. It utilizes a **Directed Cyclic Graph (DCG)** where a Generator agent and a Forensic Judge agent lock into an adversarial feedback loop, iteratively refining text until it meets strict standards.
 
 ---
 
