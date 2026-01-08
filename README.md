@@ -23,7 +23,7 @@ graph LR
 
 1.  **Generator:** An LLM instructed in "University-Level Academic Register." It employs specific linguistic strategies like **Nominalization** (turning verbs into nouns to increase density) and **Sentence Burstiness** to mimic human variance.
 2.  **Humanizer:** To break the consistent patterns of LLMs, the text undergoes **Semantic Round-Tripping**:
-    * *English $\to$ Japanese $\to$ German $\to$ English*
+    * English → Japanese → German → English
     * This exploits translation imperfections to introduce natural syntactic variation.
 3.  **Judge:** A separate LLM instance acting as a forensic linguist. It analyzes the text for:
     * AI indicator words
